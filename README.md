@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F72C&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Spring+Boot+Developer;Cloud+and+Microservices;Always+learning+new+technologies"/>
 </p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=230&section=header&text=Daury%20Gabriel%20Robles&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descSize=20"/>
+</p>
+
 
 💻 Desarrollador enfocado en **Full Stack y Arquitectura de Software**
 
@@ -71,6 +75,9 @@ Here are some ideas to get you started:
 ✉️ Gabriel90xp@gmail.com
 
 ---
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=28&duration=3500&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+Developer;Spring+Boot+Developer;Cloud+Architecture+Enthusiast;Building+Scalable+Systems"/>
+</p>
 
 # 🌐 Conecta conmigo
 
@@ -83,6 +90,9 @@ Here are some ideas to get you started:
 </div>
 
 ---
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=200&section=header&text=Daury%20Gabriel%20Robles&fontSize=40&fontColor=ffffff&animation=twinkling"/>
+</p>
 
 # 🛠️ Tecnologías
 
@@ -94,7 +104,9 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ---
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Frontend+Developer;UI+Engineer;React+Developer;Building+Modern+Web+Interfaces;HTML+CSS+JavaScript"/>
+</p>
 ### 🎨 Frontend
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
@@ -102,6 +114,9 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 ---
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=180&section=header&text=Database%20Engineering&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 ### 🗄️ Bases de Datos
 
