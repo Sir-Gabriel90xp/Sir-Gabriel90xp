@@ -31,10 +31,6 @@ Here are some ideas to get you started:
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F72C&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+Spring+Boot+Developer;Cloud+and+Backend+Enthusiast;Always+learning+new+technologies" />
 
-</div>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sir-Gabriel90xp&theme=tokyonight"/>
-</p>
 
 ---
 
